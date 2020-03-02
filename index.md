@@ -3,7 +3,7 @@
 <p align="left"><img src="https://www.mogwaicoin.org/images/WoM-Logo.png"/></p>
 
 ## Introduction
-<p align="left"><img src="https://www.mogwaicoin.org/images/Gizmo-Happy.png"style="float: left;" width="80" height="80"/>
+<p align="left"><img src="https://www.mogwaicoin.org/images/Gizmo-Happy.png" style="float: left;" width="80" height="80"/>
 As one of the first games ever based on the blockchain technology, the player is immersed in the World of Mogwais and experiences many exciting adventures. We see the gamification of the blockchain technology as an exciting experiment, in which we want to introduce the functionality and advantages of the blockchain technology to a broad audience without specific knowledge in a playful and immersive way.
 
 A project is only as good as its community, who drive the project forward with passion and joy and tell others about it. So if you have a good idea, which is valuable for the project, please write an [enhancement issue](https://github.com/orgs/WorldOfMogwais/projects/4) in github.
