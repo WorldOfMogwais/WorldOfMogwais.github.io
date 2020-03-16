@@ -20,7 +20,7 @@ Role: RPG, Pen & Paper Advisor
 
 A pen and paper fan since his childhood, games and diving into fantasy adventures have been driving Daniel for a lifetime. Working as a care assistant for living makes him probably the one with the smallest technical background, however he is compensating trough the experience in interhuman relations and communicational skills. Creating the monster and skill content in the World of Mogwais is a unique and challenging experience for him, which he dedicates himself with joy.
 
-### Patrik B. 
+### Patrik B.
 Role: Artist & Illustrator
 
 Patrik has been known for his passion painting masterful toons. He’s not one of big words and he prefers his work to do the talking for him www.2much.ch. We are proud having him in the team!
@@ -28,7 +28,12 @@ Patrik has been known for his passion painting masterful toons. He’s not one o
 ### Alexander S.
 Role: Core Support
 
-A great partner when it comes to seek out new ways to solve a question or find a little gap to pass through. He has been an early Bitcoin adapter with all the good and the bad parts of it. Working in the financial sector for over twenty years he is a great complement in our team. He is a passionate guitar player and loves to visits any place where Clapton was playing. Alex is currently not actively working on the project anymore.
+A great partner when it comes to seek out new ways to solve a question or find a little gap to pass through. He has been an early Bitcoin adapter with all the good and the bad parts of it. Working in the financial sector for over twenty years he is a great complement in our team. He is a passionate guitar player and loves to visits any place where Clapton was playing. Alex is currently not actively working on t he project anymore.
+
+### Fritz-Maurice S. alias iTeachIT
+Role: Web designer & Document/Tutorial writing
+
+From IT support manager to educator, Fritz brings a unique combination of expertise in customer service and subject matter expert. Now a computer support educator, he is most at ease when he is presented with a challenge problem. He likes to identify and solve complex problems, formulate the solution process, and of course share the knowledge. Fritz has developed a critical eye with respect to his own work and the work of others, as well as the ability to convey a message or a lesson for every learner level. He actively participates in the project and regularly shares his opinion, helping the game to evolve and to continue to be more accessible.
 
 ## Community Members
 Special thanks to our community members & Alpha tester: pal, 2fast4ever, Khargoosh, iTeachIT, Blaza, xtrmil, PandaFury, dan, MM, nanaviro, 01coin, torrantz, Sparkus, Algo, Serg, [Alt]oshi
